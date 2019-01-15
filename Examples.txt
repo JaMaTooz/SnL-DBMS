@@ -1,0 +1,28 @@
+ISBN:
+294-0011189180
+294-0012855381
+948-0240811956
+978-1300133391
+
+Titles:
+Microsoft Office 2007 For Dummies
+Learning Pixelmator
+Microsoft Word 2013: Complete
+Mastering Ember.js
+SQL Server for Node.js
+Using Node.js for UI Testing
+
+Authors:
+Anna Godbersen
+Anonymous
+BDP
+All classic book warehouse
+Amanda Hocking
+Adobe Creative Team
+
+Publisher:
+New Riders
+HSE
+Dawn Publishing
+MIT Press
+Que
